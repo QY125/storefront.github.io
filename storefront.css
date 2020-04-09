@@ -1,0 +1,77 @@
+body {
+  background-color: #eee
+}
+
+nav ul{
+	list-style-type: none;
+	padding-left:20px;
+	margin:0px;
+}		
+		
+nav ul li{
+	display:inline-block;
+	background-color: #444;
+		
+nav ul li a{
+	background-color: #444;
+	color: #eee;
+	text-decoration: none;
+	padding:0 5px;
+	font-weight:bold;
+	text-transform: uppercase;
+	font-size:13x;		
+}
+
+h1 {
+ color: rgb(0, 4, 255);
+ font-family: Roboto, Arial, sans-serif;
+ font-size: 3em;
+}
+
+h2 {
+    color: darkblue;
+    background-color: #cccccc;
+}
+
+h3 {
+  font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.8em;
+}
+
+.description {
+  font-weight: bold;
+  color: darkblue;
+  font-family: Lucida Console, Courier, monospace;
+  font-size: 1.5em;
+}
+
+.price {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size:1.5em;
+  color:brown;
+}
+
+.save {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.5em;
+  color: red;
+}
+
+.sell {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  color: red;
+}
+
+#section4{
+  border: 2px solid;
+	padding: 10px;
+	background-color: bisque;
+	width: device-width;
+	border-radius: 250px;
+  text-align: center;
+}
+
+p {
+  font-size: 100%;}
